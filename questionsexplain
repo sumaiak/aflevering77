@@ -1,0 +1,9 @@
+Hvad gør metoden instanceof? instanceof method is used to check whether for example a child class belong to a parent class
+by declaring and intializing  a new opject of a parent class and to check if i can use in in parent class,
+Hvad vil det sige at en metode er abstrakt?
+an abstract method does not have a body,
+Kan man have en ikke-abstrakt klasse med en abstrakt metode? Hvis ikke, hvorfor ikke?
+no we cant have ,abstract class can only be used in an interface class or abstract,
+Hvad betyder @override?
+when i already have a method in a class and i want to reuse in anotherclass with new info so i can  type override
+"like the inheriting concept"
